@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std;a
+using namespace std;
 struct Buku
 {
     string judul;
@@ -9,7 +9,7 @@ struct Buku
     string penerbit;
     bool tersedia;
 };
-
+a
 void menu(Buku[], int);
 void tampilkanDaftarBuku(Buku[], int);
 void cariBuku(Buku[], int, string);
