@@ -8,7 +8,7 @@ struct Buku
     int tahunTerbit;
     string penerbit;
     bool tersedia;
-};a
+};
 Penggunaan Tipe data bentukan struct
 void menu(Buku[], int);
 void tampilkanDaftarBuku(Buku[], int);
