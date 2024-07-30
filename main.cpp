@@ -10,7 +10,7 @@ struct Buku
     string penerbit;
     bool tersedia;
 };
-
+a
 void menu(Buku[], int);
 void tampilkanDaftarBuku(Buku[], int);
 void cariBuku(Buku[], int, string);
