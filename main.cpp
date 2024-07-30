@@ -9,7 +9,7 @@ struct Buku
     string penerbit;
     bool tersedia;
 };
-a
+Penggunaan Tipe data bentukan struct
 void menu(Buku[], int);
 void tampilkanDaftarBuku(Buku[], int);
 void cariBuku(Buku[], int, string);
