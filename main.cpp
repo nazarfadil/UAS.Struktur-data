@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+a
 struct Buku
 {
     string judul;
@@ -110,7 +110,7 @@ void tampilkanDaftarBuku(Buku buku[], int jumlahBuku)
 {
     cout << "===== DAFTAR BUKU =====" << endl;
     for (int i = 0; i < jumlahBuku; ++i)
-    a{
+    {
         cout << "Buku ke-" << i + 1 << endl;
         cout << "Judul   : " << buku[i].judul << endl;
         cout << "Penulis : " << buku[i].penulis << endl;
