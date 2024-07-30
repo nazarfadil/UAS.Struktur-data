@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std;
-Percabangan switch 
+using namespace std;a
 struct Buku
 {
     string judul;
